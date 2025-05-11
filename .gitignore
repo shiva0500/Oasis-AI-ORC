@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.spec
+*.egg-info/
+output/
+*.exe
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyInstaller generated files
+*.manifest
+*.spec
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python notebooks
+*.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Streamlit config
+.streamlit/config.toml
+
+# PDF / temp cache
+*.pkl
+*.idx
+*.log
+*.db
+
+
+
+
+# PyWebView temp files
+webview.log
