@@ -132,6 +132,6 @@ No data leaves your machine. All processing — OCR, embeddings, vector search, 
 
 ## 📬 Contact
 
-For suggestions or collaboration: \[[your\_email@example.com](mailto:doddishiva055@gmail.com)]
+For suggestions or collaboration: \[[doddishivads@gmail.com](mailto:doddishivads@gmail.com)]
 
 
