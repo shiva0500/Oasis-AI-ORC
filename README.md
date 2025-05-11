@@ -135,7 +135,3 @@ No data leaves your machine. All processing — OCR, embeddings, vector search, 
 For suggestions or collaboration: \[[your\_email@example.com](mailto:doddishiva055@gmail.com)]
 
 
----
-
-```
-#
